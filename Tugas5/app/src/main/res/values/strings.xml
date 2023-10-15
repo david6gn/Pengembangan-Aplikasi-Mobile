@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="in_title">Sign In Page</string>
+    <string name="up_title">Sign Up Page</string>
+    <string name="bt_in">Sign In</string>
+    <string name="bt_up">Sign Up</string>
+    <string name="bt_up_desc">"Don't have an account?"</string>
+    <string name="name_desc">Username</string>
+    <string name="pw_desc">Password</string>
+    <string name="welcome">Halo %s</string>
+    <string name="logout">Logout</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="finish">Finish</string>
+    <string name="quick1">QuickStart Page 1</string>
+    <string name="quick2">QuickStart Page 2</string>
+    <string name="quick3">QuickStart Page 3</string>
+    <string name="progress1">⚫ ⚪ ⚪ </string>
+    <string name="progress2">⚪ ⚫ ⚪ </string>
+    <string name="progress3">⚪ ⚪ ⚫ </string>
+</resources>
